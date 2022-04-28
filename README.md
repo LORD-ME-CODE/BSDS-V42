@@ -8,7 +8,7 @@ ANDROID 2 (GOOGLE DRIVE) OPTIMIZED : https://drive.google.com/file/d/11t6WMXywb7
 
 iOS : https://www.mediafire.com/file/ty7m3dc6ogyfhsb/BSDS_V42.ipa/file
 
-Server ZIP: https://github.com/CrazorTheCat/BSDS-V42/archive/refs/heads/master.zip
+Server ZIP: https://github.com/LORD-ME-CODE/BSDS-V42/archive/refs/heads/master.zip
 
 ## Requirements: ##
 1. a brain...
