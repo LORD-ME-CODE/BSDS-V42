@@ -6,6 +6,6 @@ from Static.StaticData import StaticData
 if not os.path.exists(f"HexDumpV{Configuration.settings['DumpMajor']}"):
     os.mkdir(f"HexDumpV{Configuration.settings['DumpMajor']}")
 
-StaticData.Preload()
+StaticData.preload()
 
 ServerConnection(("0.0.0.0", 9339))
